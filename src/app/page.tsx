@@ -12,14 +12,6 @@ export default function Home() {
         className="mb-1"
       />
       <div className="flex space-x-4">
-        <Link href="https://t.me/huki_snipe_bot" target="_blank">
-          <Image
-            src="./icons8-telegram-app.svg"
-            alt="Telegram"
-            width={48}
-            height={48}
-          />
-        </Link>
         <Link href="https://discord.gg/huki" target="_blank">
           <Image
             src="./icons8-discord.svg"
